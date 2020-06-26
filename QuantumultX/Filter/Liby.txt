@@ -469,33 +469,7 @@ host, track.sohu.com, AdBlock
 host, v2.reachmax.cn, AdBlock
 # (T)
 # > Tencent
-host-suffix, e.qq.com, AdBlock
-# host-suffix, l.qq.com, AdBlock
-host, adsmind.apdcdn.tc.qq.com, AdBlock
-host, adsmind.gdtimg.com, AdBlock
-host, adsmind.tc.qq.com, AdBlock
-host, btrace.qq.com, AdBlock
-host, c.gdt.qq.com, AdBlock
-host, c.gdt.qq.com, AdBlock
-host, canvas.gdt.qq.com, AdBlock
-host, d.gdt.qq.com, AdBlock
-host, i.gdt.qq.com, AdBlock
-host, mi.gdt.qq.com, AdBlock
-host, pgdt.gtimg.cn, AdBlock
-host, pgdt.gtimg.com, AdBlock
-host, pgdt.ugdtimg.com, AdBlock
-host, q.i.gdt.qq.com, AdBlock
-host, rm.gdt.qq.com, AdBlock
-host, s.gdt.qq.com, AdBlock
-host, splashqqlive.gtimg.com, AdBlock
-host, t.gdt.qq.com, AdBlock
-host, v.gdt.qq.com, AdBlock
-host, v2.gdt.qq.com, AdBlock
-host, wa.gtimg.com, AdBlock
-host, win.gdt.qq.com, AdBlock
-host, wxsnsdy.wxs.qq.com, AdBlock
-host, wxsnsdythumb.wxs.qq.com, AdBlock
-host, xc.gdt.qq.com, AdBlock
+
 # >> 体育
 host, dp3.qq.com, AdBlock
 host, lives.l.qq.com, AdBlock
