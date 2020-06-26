@@ -474,7 +474,7 @@ host-suffix, l.qq.com, AdBlock
 host, adsmind.apdcdn.tc.qq.com, AdBlock
 host, adsmind.gdtimg.com, AdBlock
 host, adsmind.tc.qq.com, AdBlock
-host, btrace.qq.com, AdBlock
+# host, btrace.qq.com, AdBlock
 host, c.gdt.qq.com, AdBlock
 host, c.gdt.qq.com, AdBlock
 host, canvas.gdt.qq.com, AdBlock
